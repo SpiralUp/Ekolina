@@ -1,6 +1,7 @@
 ## Ekolina Messenger Bot Privacy Policy
 
-App ID: 2498127203595077
+fb:app_id: 2498127203595077
+
 Application Type: Messenger Bot
 
 
