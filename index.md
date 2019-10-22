@@ -1,6 +1,10 @@
-## Ekolina Messenger Bot Privacy Privacy Policy
+## Ekolina Messenger Bot Privacy Policy
 
-Our Company
+App ID: 2498127203595077
+Application Type: Messenger Bot
+
+
+### Our Company
 
 Name: Ministarstvo zaštite okoliša i energetike Republike Hrvatske
 Address: Radnička cesta 80, Zagreb
