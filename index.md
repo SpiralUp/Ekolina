@@ -15,8 +15,6 @@ MB: 2831309
 
 Website: https://mzoe.gov.hr/
 
-Designated data protection officer: Mirjana Kroflin, Radnička cesta 80, Zagreb, mirjana.kroflin@fzoeu.hr
-
 Our Company in order to provide a high-quality service claims the services of the following data processors, and there are external service providers, to whom – either directly or indirectly – in order to provide services personal services are transferred or could be transferred, as well as these external service providers could transfer personal data to the data controller. External service providers are those service providers as well, with whom the data controller are not in a contractual relationship, however for providing service to our Partners – either by the contribution of the End user (for example connecting the individual account to the service, and in order to make easier the registration or log in the service) or without a contribution – due to they have access to the platforms and the data available on those platforms, hereby they could collect data about the end users and all end users’ activity, from which in certain cases – individually or together with other collected data by these external service providers – end users could be identified.
 
 Such external service providers are the following ones, for example, but not exclusively: Facebook Ireland LTD., FatDux d.o.o.
